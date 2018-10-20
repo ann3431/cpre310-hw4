@@ -1,0 +1,11 @@
+1 is friends with 11
+11 is friends with 9
+4 is friends with 11
+6 is friends with 11
+6 is friends with 7
+2 is friends with 7
+5 is friends with 2
+5 is friends with 2
+2 is friends with 8
+8 is friends with 3
+10 is friends with 8
